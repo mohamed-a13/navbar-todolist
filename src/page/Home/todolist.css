@@ -1,0 +1,14 @@
+.todo-container {
+  width: 100%;
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.todo-container h1 {
+  text-align: center;
+  color: #1985c4;
+}
