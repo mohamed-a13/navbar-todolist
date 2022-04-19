@@ -22,3 +22,9 @@ nav ul li {
 .todo-container {
   z-index: -1;
 }
+
+h3 {
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 200px;
+}
